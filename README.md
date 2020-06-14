@@ -1,3 +1,4 @@
+<h3> ABOUT </h3>
 Walmart is an American multinational retail corporation that operates a chain of hypermarkets,
 discount department stores, and grocery stores,with a revenue, over US$ 500 billion.
 Our goal is to predict Walmarts Weekly Sales for a specific store and department combination.
